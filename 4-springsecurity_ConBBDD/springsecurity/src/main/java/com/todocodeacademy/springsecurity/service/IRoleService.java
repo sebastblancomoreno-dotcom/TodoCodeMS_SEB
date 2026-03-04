@@ -3,7 +3,6 @@ package com.todocodeacademy.springsecurity.service;
 import java.util.List;
 import java.util.Optional;
 
-import com.todocodeacademy.springsecurity.model.Permission;
 import com.todocodeacademy.springsecurity.model.Role;
 
 public interface IRoleService {
